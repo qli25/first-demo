@@ -1,0 +1,91 @@
+<source>
+<publisher-name>Awesome ATS</publisher-name>
+<publisher-url>https://www.example.com</publisher-url>
+<last-build-date>Thu, 08 Mar 2018 17:31:49 UTC</last-build-date>
+<job>
+<title>
+<![CDATA[ Awesome Software Engineer ]]>
+</title>
+<date>
+<![CDATA[ Mon, 05 Mar 2018 17:29:14 UTC ]]>
+</date>
+<id>
+<![CDATA[ awesome-job-id-abc125 ]]>
+</id>
+<description>
+<![CDATA[This is job is going to be based out of our office in Milpitas. Requires you to work full time. ]]>
+</description>
+<job-type>
+<![CDATA[ full_time ]]>
+</job-type>
+<company-name>
+<![CDATA[ Awesome Company ]]>
+</company-name>
+<company-id>
+<![CDATA[ awesome-company-id-1 ]]>
+</company-id>
+<company-full-address>
+<![CDATA[ 1 Hacker Way, Menlo Park, CA 95025]]>
+</company-full-address>
+<company-facebook-url>
+<![CDATA[]]>
+</company-facebook-url>
+<company-url>
+<![CDATA[ https://www.example.com ]]>
+</company-url>
+<city>
+<![CDATA[ Menlo Park ]]>
+</city>
+<state>
+<![CDATA[ CA ]]>
+</state>
+<country>
+<![CDATA[ USA ]]>
+</country>
+<salary>
+<![CDATA[ 18.0 ]]>
+</salary>
+<salary-min>
+<![CDATA[ 16.0 ]]>
+</salary-min>
+<salary-max>
+<![CDATA[ 18.0 ]]>
+</salary-max>
+<salary-currency>
+<![CDATA[ USD ]]>
+</salary-currency>
+<salary-type>
+<![CDATA[ hourly ]]>
+</salary-type>
+<facebook-distribution-enabled>
+<![CDATA[ true ]]>
+</facebook-distribution-enabled>
+<facebook-apply-data>
+<application-callback-url>
+<![CDATA[
+https://pp-ix-test-bed.herokuapp.com/api/application/
+]]>
+</application-callback-url>
+<hide-from-timeline>
+<![CDATA[ false ]]>
+</hide-from-timeline>
+<form-config>
+<email-field>
+<optional>
+<![CDATA[ true ]]>
+</optional>
+</email-field>
+<phone-number-field>
+<optional>
+<![CDATA[ false ]]>
+</optional>
+</phone-number-field>
+<work-experience-field>
+<optional>
+<![CDATA[ true ]]>
+</optional>
+</work-experience-field>
+</form-config>
+</facebook-apply-data>
+</job>
+</source>
