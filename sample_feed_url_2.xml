@@ -3,6 +3,9 @@
 <publisher-url>https://pp-ix-test-bed.herokuapp.com</publisher-url>
 <last-build-date>Thu, 08 Mar 2018 17:31:49 UTC</last-build-date>
 <job>
+<url>
+	<![CDATA[ https://www.example.com/ ]]>
+</url>
 <title>
 <![CDATA[ Pet Managment ]]>
 </title>
@@ -64,6 +67,9 @@
 <![CDATA[ true ]]>
 </facebook-distribution-enabled>
 <facebook-apply-data>
+<offsite-application>
+<![CDATA[ true ]]>
+</offsite-application>
 <application-callback-url>
 <![CDATA[
 https://pp-ix-test-bed.herokuapp.com/api/application/
