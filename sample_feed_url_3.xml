@@ -67,9 +67,6 @@
 <![CDATA[ true ]]>
 </facebook-distribution-enabled>
 <facebook-apply-data>
-<offsite-application>
-<![CDATA[ true ]]>
-</offsite-application>
 <application-callback-url>
 <![CDATA[
 https://pp-ix-test-bed.herokuapp.com/api/application/
